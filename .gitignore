@@ -17,3 +17,4 @@
 /tests/unit/target_pic18.X/dist/default/
 *.o
 unit_tests
+*.vscode/
